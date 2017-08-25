@@ -1,4 +1,5 @@
 ## Welcome to GitHub Pages
+https://universityofplymouth-electronics.github.io/PlymouthPiJam/
 
 You can use the [editor on GitHub](https://github.com/UniversityOfPlymouth-Electronics/PlymouthPiJam/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
